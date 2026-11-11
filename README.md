@@ -4,7 +4,7 @@
 
 <br>
 
-<h1>Привет, я <span style="color:#ff6bcb;"Милена</span>! ✨</h1>
+<h1>Привет, я <span style="color:#ff6bcb;">Милена</span>! ✨</h1>
 <h3>Frontend-разработчик, создаю магию в вебе</h3>
 
 <p>
